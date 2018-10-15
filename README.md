@@ -1,12 +1,29 @@
-## Welcome to GitHub Pages
+Panagiota Chouliaraki
 
 You can use the [editor on GitHub](https://github.com/giottachou/cv/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Personal Information
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Name:Panagiota
+- Surname:Chouliaraki
+- Father's name:Georgios
+- Date of Birth:18/02/1999
+- Personal Adress:L.Katsoni 14,Maroussi P.C:15122
+- E-mail:giottachou@gmail.com
+
+### Studies
+
+* High School graduate with a Graduation Score of: 18.6
+* 2017 –	  :  Ionian University, Department of Informatics
+
+### Foreign Languages
+
+English:  1. First Certificate in English, Cambridge (Level B2)
+          2.Certificate in Advanced English, Cambridge (Level C1)
+          3.Certificate of Proficiency in English, Michigan (Level C2)
+German:   1. Zertifikat B1, Goethe Institut
 
 ```markdown
 Syntax highlighted code block
