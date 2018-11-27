@@ -20,10 +20,12 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Foreign Languages
 
-English:  1. First Certificate in English, Cambridge (Level B2)
-          2.Certificate in Advanced English, Cambridge (Level C1)
-          3.Certificate of Proficiency in English, Michigan (Level C2)
-German:   1. Zertifikat B1, Goethe Institut
+**English:**
+1. First Certificate in English, Cambridge (Level B2)
+2. Certificate in Advanced English, Cambridge (Level C1)
+3. Certificate of Proficiency in English, Michigan (Level C2)
+**German:**
+1. Zertifikat B1, Goethe Institut
 
 ```markdown
 Syntax highlighted code block
