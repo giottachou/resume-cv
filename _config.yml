@@ -1,14 +1,16 @@
 theme: jekyll-theme-minimal
 String: 'Personal Information'
 
+---
 -Personal Information
- - **Name:** Panagiota
- - **Surname:** Chouliaraki
- - **Father's name:** Georgios
- - **Date of Birth:** 18/02/1999
- - **Personal Adress:** L.Katsoni 14,Maroussi P.C:15122
- - **E-mail:** giottachou@gmail.com
+ - Name: Panagiota
+ - Surname: Chouliaraki
+ - Father's name: Georgios
+ - Date of Birth: 18/02/1999
+ - Personal Adress: L.Katsoni 14,Maroussi P.C:15122
+ - E-mail: giottachou@gmail.com
 -
+...
 
 -Studies
  * High School graduate with a Graduation Score of: 18.6
