@@ -1,10 +1,11 @@
-Panagiota Chouliaraki
+
+# Panagiota Chouliaraki
 
 You can use the [editor on GitHub](https://github.com/giottachou/cv/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Personal Information
+## Personal Information
 
 - **Name:** Panagiota
 - **Surname:** Chouliaraki
@@ -13,19 +14,19 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 - **Personal Adress:** L.Katsoni 14,Maroussi P.C:15122
 - **E-mail:** giottachou@gmail.com
 
-### Studies
+## Studies
 
 * High School graduate with a Graduation Score of: 18.6
 * 2017 –	  :  Ionian University, Department of Informatics
 
-### Foreign Languages
+## Foreign Languages
 
-####English:
+###English:
 1. First Certificate in English, Cambridge (Level B2)
 2. Certificate in Advanced English, Cambridge (Level C1)
 3. Certificate of Proficiency in English, Michigan (Level C2)
 
-####German:
+###German:
 1. Zertifikat B1, Goethe Institut
 
 ```markdown
