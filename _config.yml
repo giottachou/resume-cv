@@ -33,7 +33,7 @@ order:
   - [Personal Information, NONE]
   - [education, Education]
 
-Personal Information
+"Personal Information"
  Name:
   first: Panagiota
   last: Chouliaraki
@@ -42,7 +42,7 @@ Personal Information
  Personal Adress: L.Katsoni 14,Maroussi P.C:15122
  E-mail: giottachou@gmail.com
 
-Education
+"Education"
  "Studies"
   -High School graduate with a Graduation Score of: 18.6
   -2017 –	  :  Ionian University, Department of Informatics
