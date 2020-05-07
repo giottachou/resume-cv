@@ -33,17 +33,17 @@
 - Use of Wordpress for site construction
 - Programming languages: C, C++,Java,Python,Perl,SQL,HTML,PHP,CSS
 
-###### Seminaries:
+##### Seminaries:
 - 01/12/18: Prticipation in “MLH Local Hack Day 2018” 
 - 29/01/19: “Post-Quantum Cryptography, Transparent
 Lotteries and Zero Knowledge Proofs”
 - 05/02/19: “Safety on Internet”
 - 19/02/19: “Gender Gap in IT”
 
-####### Volunteering Activities:
+##### Volunteering Activities:
 - Volunteering work as a Robotics teacher assistant for teaching robotics to kids(1st to 6th grade)
 
-######## Hobbies:
+##### Hobbies:
 - Cooking
 - Piano/Painting
 - Aerial Dance/Yoga
