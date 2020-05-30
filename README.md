@@ -9,7 +9,6 @@
 - **Surname:** Chouliaraki
 - **Father's name:** Georgios
 - **Date of Birth:** 18/02/1999
-- **Personal Adress:** L.Katsoni 14,Maroussi P.C:15122
 - **E-mail:** giottachou@gmail.com
 
 ## Studies
